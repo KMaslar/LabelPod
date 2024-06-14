@@ -1,0 +1,6 @@
+framework module LabelPod {
+  umbrella header "LabelPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

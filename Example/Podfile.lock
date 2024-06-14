@@ -1,0 +1,16 @@
+PODS:
+  - LabelPod (0.1.0)
+
+DEPENDENCIES:
+  - LabelPod (from `../`)
+
+EXTERNAL SOURCES:
+  LabelPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LabelPod: 1adb764fc80161d0954e83cf95fe56c7bb20d152
+
+PODFILE CHECKSUM: 1ae2d3e547985ca05adcf30d5a39e1c2ba974a6f
+
+COCOAPODS: 1.15.2

@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import LabelPod
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var textLbl: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        textLbl.underlinedLabel()
     }
 
     override func didReceiveMemoryWarning() {
